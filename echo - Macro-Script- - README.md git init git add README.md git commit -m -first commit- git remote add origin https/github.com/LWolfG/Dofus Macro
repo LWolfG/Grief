@@ -26,10 +26,10 @@ F8:: WinActivate, Kolier
  
 F9:: 
     Send /invite Jiajia{Enter}{Sleep 10}
-	Send /invite Houranous{Enter}{Sleep 10}
+    Send /invite Houranous{Enter}{Sleep 10}
     Send /invite Panzawa{Enter}{Sleep 10}
-	Send /invite Lapeteia{Enter}{Sleep 10}
-	Send /invite Kyae{Enter}
+    Send /invite Lapeteia{Enter}{Sleep 10}
+    Send /invite Kyae{Enter}
 Return
 
 ;HotKey per il controllo della Macro
